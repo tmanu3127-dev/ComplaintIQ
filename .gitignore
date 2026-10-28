@@ -218,3 +218,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+projectflow.txt
+
+yvenv/
+.venv/
+
+# --- secrets ------
+
+.env
+*service-account*.json
+gcp-key*.json
+
+# ----- data and generated outputs -----
+
+data/
+artifact/
+logs/
+
+# ---- saved models ------
+*.pt
+*.pkl
+
+# build leftovers
+*.egg-info/

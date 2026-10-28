@@ -1,0 +1,31 @@
+# core data and ML
+pandas
+numpy
+scikit-learn
+matplotlib
+pyyaml
+python-dotenv
+ipykernel
+
+# API and Security
+fastapi
+uvicorn
+pydantic
+slowapi
+python-multipart
+
+# LLM
+google-genai
+
+# Cloud
+google-cloud-storage
+
+# monitoring
+prometheus-client
+
+# testing and security scanning
+pytest
+pip-audit
+
+from-root
+-e .
